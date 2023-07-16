@@ -1,4 +1,6 @@
 5852
+49/home/mib/Documents/goit-js-hw-08/dist/index.html1689541860101697322 0
+52/home/mib/Documents/goit-js-hw-08/dist/02-video.html1689541860101697322 0
 63/home/mib/Documents/goit-js-hw-08/dist/02-video.c3332335.js.map1689541475490644552 0
 63/home/mib/Documents/goit-js-hw-08/dist/02-video.9dbe147f.js.map1689541475490644552 0
 66/home/mib/Documents/goit-js-hw-08/dist/03-feedback.e2fccdd4.js.map1689541475490644552 0
@@ -6,7 +8,6 @@
 62/home/mib/Documents/goit-js-hw-08/dist/03-feedback.7268fa4c.js1689541475483977982 0
 62/home/mib/Documents/goit-js-hw-08/dist/03-feedback.e2fccdd4.js1689541475483977982 0
 59/home/mib/Documents/goit-js-hw-08/dist/02-video.f69900b1.js1689541475483977982 0
-52/home/mib/Documents/goit-js-hw-08/dist/02-video.html1689541475483977982 0
 65/home/mib/Documents/goit-js-hw-08/dist/01-gallery.cd9581eb.js.map1689541294859909427 0
 65/home/mib/Documents/goit-js-hw-08/dist/01-gallery.d951e90a.js.map1689541294859909427 0
 63/home/mib/Documents/goit-js-hw-08/dist/02-video.3c826094.js.map1689541294859909427 0
@@ -22,7 +23,6 @@
 62/home/mib/Documents/goit-js-hw-08/dist/03-feedback.55a0b004.js1689541294849909570 0
 62/home/mib/Documents/goit-js-hw-08/dist/01-gallery.40c4146b.css1689541294849909570 0
 63/home/mib/Documents/goit-js-hw-08/dist/03-feedback.bb91f3cc.css1689541294849909570 0
-49/home/mib/Documents/goit-js-hw-08/dist/index.html1689541294849909570 0
 65/home/mib/Documents/goit-js-hw-08/dist/01-gallery.53390864.js.map1689540338490317672 0
 63/home/mib/Documents/goit-js-hw-08/dist/02-video.a74b541c.js.map1689540338490317672 0
 66/home/mib/Documents/goit-js-hw-08/dist/03-feedback.5440b4f4.js.map1689540338490317672 0
@@ -484,7 +484,7 @@
 77/home/mib/Documents/goit-js-hw-08/node_modules/native-promise-only/.npmignore1689540337317002228 0
 93/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/web-app-manifest.js1689539877740710534 0
 77/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/core/src/Validation.js1689539881807314486 0
-38/home/mib/Documents/goit-js-hw-08/dist1689541475497311123 1
+38/home/mib/Documents/goit-js-hw-08/dist1689541860101697322 1
 90/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/web-animation.js1689539877740710534 0
 81/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/hevc.js1689539877707377715 0
 91/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/viewport-units.js1689539877740710534 0
@@ -2319,7 +2319,7 @@
 72/home/mib/Documents/goit-js-hw-08/node_modules/lodash/_basePropertyOf.js1689540218842143744 0
 73/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/cache/lib/types.js1689539881660650081 0
 74/home/mib/Documents/goit-js-hw-08/node_modules/@jridgewell/sourcemap-codec1689539881773981667 1
-55/home/mib/Documents/goit-js-hw-08/dist/03-feedback.html1689541475483977982 0
+55/home/mib/Documents/goit-js-hw-08/dist/03-feedback.html1689541860101697322 0
 81/home/mib/Documents/goit-js-hw-08/node_modules/css-tree/lib/syntax/node/String.js1689539877670711614 0
 71/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/packager-css/src1689539880274004799 1
 70/home/mib/Documents/goit-js-hw-08/node_modules/@jridgewell/resolve-uri1689539881787314795 1
@@ -3161,7 +3161,7 @@
 96/home/mib/Documents/goit-js-hw-08/node_modules/simplelightbox/dist/simple-lightbox.jquery.min.js1689540156193101538 0
 65/home/mib/Documents/goit-js-hw-08/node_modules/json5/package.json1689539877344049986 0
 91/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/pagevisibility.js1689539877727377407 0
-54/home/mib/Documents/goit-js-hw-08/dist/01-gallery.html1689541294849909570 0
+54/home/mib/Documents/goit-js-hw-08/dist/01-gallery.html1689541860101697322 0
 67/home/mib/Documents/goit-js-hw-08/node_modules/nullthrows/README.md1689539877207385427 0
 90/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/tabindex-attr.js1689539877734043971 0
 92/home/mib/Documents/goit-js-hw-08/node_modules/posthtml-include/node_modules/posthtml-parser1689539881847313870 1
@@ -5608,7 +5608,7 @@
 93/home/mib/Documents/goit-js-hw-08/node_modules/.bin/node-gyp-build-optional-packages-optional1689539885357259747 0
 70/home/mib/Documents/goit-js-hw-08/node_modules/browserslist/index.d.ts1689539877634045513 0
 58/home/mib/Documents/goit-js-hw-08/node_modules/.bin/parcel1689539885357259747 0
-46/home/mib/Documents/goit-js-hw-08/package.json1689541469967391124 0
+46/home/mib/Documents/goit-js-hw-08/package.json1689541844828588384 0
 87/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/core/lib/requests/PathRequest.js1689539881777314949 0
 136/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-browser-exclude/package.json1689539880564000326 0
 56/home/mib/Documents/goit-js-hw-08/node_modules/.bin/svgo1689539885357259747 0
