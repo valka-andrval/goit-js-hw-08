@@ -1,35 +1,20 @@
-5852
-49/home/mib/Documents/goit-js-hw-08/dist/index.html1689541860101697322 0
-52/home/mib/Documents/goit-js-hw-08/dist/02-video.html1689541860101697322 0
-63/home/mib/Documents/goit-js-hw-08/dist/02-video.c3332335.js.map1689541475490644552 0
-63/home/mib/Documents/goit-js-hw-08/dist/02-video.9dbe147f.js.map1689541475490644552 0
-66/home/mib/Documents/goit-js-hw-08/dist/03-feedback.e2fccdd4.js.map1689541475490644552 0
-59/home/mib/Documents/goit-js-hw-08/dist/02-video.c3332335.js1689541475483977982 0
-62/home/mib/Documents/goit-js-hw-08/dist/03-feedback.7268fa4c.js1689541475483977982 0
-62/home/mib/Documents/goit-js-hw-08/dist/03-feedback.e2fccdd4.js1689541475483977982 0
-59/home/mib/Documents/goit-js-hw-08/dist/02-video.f69900b1.js1689541475483977982 0
-65/home/mib/Documents/goit-js-hw-08/dist/01-gallery.cd9581eb.js.map1689541294859909427 0
-65/home/mib/Documents/goit-js-hw-08/dist/01-gallery.d951e90a.js.map1689541294859909427 0
-63/home/mib/Documents/goit-js-hw-08/dist/02-video.3c826094.js.map1689541294859909427 0
-63/home/mib/Documents/goit-js-hw-08/dist/02-video.c2a876cd.js.map1689541294859909427 0
-63/home/mib/Documents/goit-js-hw-08/dist/02-video.72fa2edf.js.map1689541294859909427 0
-66/home/mib/Documents/goit-js-hw-08/dist/03-feedback.55a0b004.js.map1689541294859909427 0
-66/home/mib/Documents/goit-js-hw-08/dist/03-feedback.ea7b26f9.js.map1689541294859909427 0
-67/home/mib/Documents/goit-js-hw-08/dist/03-feedback.bb91f3cc.css.map1689541294859909427 0
-61/home/mib/Documents/goit-js-hw-08/dist/01-gallery.cd9581eb.js1689541294853242856 0
-59/home/mib/Documents/goit-js-hw-08/dist/02-video.3c826094.js1689541294853242856 0
-59/home/mib/Documents/goit-js-hw-08/dist/02-video.4d417521.js1689541294853242856 0
-62/home/mib/Documents/goit-js-hw-08/dist/01-gallery.4cdf7a35.css1689541294849909570 0
-62/home/mib/Documents/goit-js-hw-08/dist/03-feedback.55a0b004.js1689541294849909570 0
-62/home/mib/Documents/goit-js-hw-08/dist/01-gallery.40c4146b.css1689541294849909570 0
-63/home/mib/Documents/goit-js-hw-08/dist/03-feedback.bb91f3cc.css1689541294849909570 0
-65/home/mib/Documents/goit-js-hw-08/dist/01-gallery.53390864.js.map1689540338490317672 0
-63/home/mib/Documents/goit-js-hw-08/dist/02-video.a74b541c.js.map1689540338490317672 0
-66/home/mib/Documents/goit-js-hw-08/dist/03-feedback.5440b4f4.js.map1689540338490317672 0
-64/home/mib/Documents/goit-js-hw-08/dist/goit-js-hw-08.59712999.js1689540338483651107 0
-66/home/mib/Documents/goit-js-hw-08/dist/01-gallery.7d68834f.css.map1689540338456984847 0
-63/home/mib/Documents/goit-js-hw-08/dist/03-feedback.ba2d0753.css1689540338453651565 0
-62/home/mib/Documents/goit-js-hw-08/dist/01-gallery.101ee4ef.css1689540338453651565 0
+5826
+65/home/mib/Documents/goit-js-hw-08/dist/01-gallery.d951e90a.js.map1689541970753402354 0
+65/home/mib/Documents/goit-js-hw-08/dist/01-gallery.cd9581eb.js.map1689541970753402354 0
+63/home/mib/Documents/goit-js-hw-08/dist/02-video.c3332335.js.map1689541970753402354 0
+63/home/mib/Documents/goit-js-hw-08/dist/02-video.9dbe147f.js.map1689541970753402354 0
+61/home/mib/Documents/goit-js-hw-08/dist/01-gallery.cd9581eb.js1689541970746735785 0
+59/home/mib/Documents/goit-js-hw-08/dist/02-video.c3332335.js1689541970743402501 0
+67/home/mib/Documents/goit-js-hw-08/dist/03-feedback.bb91f3cc.css.map1689541970743402501 0
+66/home/mib/Documents/goit-js-hw-08/dist/03-feedback.e2fccdd4.js.map1689541970743402501 0
+62/home/mib/Documents/goit-js-hw-08/dist/01-gallery.4cdf7a35.css1689541970740069217 0
+62/home/mib/Documents/goit-js-hw-08/dist/03-feedback.7268fa4c.js1689541970740069217 0
+63/home/mib/Documents/goit-js-hw-08/dist/03-feedback.bb91f3cc.css1689541970740069217 0
+62/home/mib/Documents/goit-js-hw-08/dist/03-feedback.e2fccdd4.js1689541970740069217 0
+59/home/mib/Documents/goit-js-hw-08/dist/02-video.f69900b1.js1689541970740069217 0
+49/home/mib/Documents/goit-js-hw-08/dist/index.html1689541970740069217 0
+62/home/mib/Documents/goit-js-hw-08/dist/01-gallery.40c4146b.css1689541970740069217 0
+52/home/mib/Documents/goit-js-hw-08/dist/02-video.html1689541970740069217 0
 92/home/mib/Documents/goit-js-hw-08/node_modules/@vimeo/player/src/lib/timing-src-connector.js1689540338076990641 0
 77/home/mib/Documents/goit-js-hw-08/node_modules/@vimeo/player/src/lib/embed.js1689540338076990641 0
 91/home/mib/Documents/goit-js-hw-08/node_modules/@vimeo/player/src/lib/compatibility-check.js1689540338073657358 0
@@ -391,7 +376,6 @@
 70/home/mib/Documents/goit-js-hw-08/node_modules/lodash/_baseProperty.js1689540218842143744 0
 66/home/mib/Documents/goit-js-hw-08/node_modules/lodash/functions.js1689540218892142980 0
 68/home/mib/Documents/goit-js-hw-08/node_modules/lodash/_basePickBy.js1689540218842143744 0
-59/home/mib/Documents/goit-js-hw-08/dist/02-video.a74b541c.js1689540338486984390 0
 66/home/mib/Documents/goit-js-hw-08/node_modules/lodash/_basePick.js1689540218842143744 0
 65/home/mib/Documents/goit-js-hw-08/node_modules/lodash/_baseNth.js1689540218842143744 0
 71/home/mib/Documents/goit-js-hw-08/node_modules/lodash/_baseMergeDeep.js1689540218842143744 0
@@ -484,7 +468,7 @@
 77/home/mib/Documents/goit-js-hw-08/node_modules/native-promise-only/.npmignore1689540337317002228 0
 93/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/web-app-manifest.js1689539877740710534 0
 77/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/core/src/Validation.js1689539881807314486 0
-38/home/mib/Documents/goit-js-hw-08/dist1689541860101697322 1
+38/home/mib/Documents/goit-js-hw-08/dist1689541970756735638 1
 90/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/web-animation.js1689539877740710534 0
 81/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/hevc.js1689539877707377715 0
 91/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/viewport-units.js1689539877740710534 0
@@ -604,7 +588,6 @@
 100/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/kerning-pairs-ligatures.js1689539877714044279 0
 89/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/do-not-track.js1689539877700711151 0
 136/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/.pnpm/source-pnpm@1.0.0/node_modules1689539880550667199 1
-62/home/mib/Documents/goit-js-hw-08/dist/03-feedback.ea7b26f9.js1689541294849909570 0
 92/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/resource-timing.js1689539877730710689 0
 89/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/style-scoped.js1689539877734043971 0
 105/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/justify-content-space-evenly.js1689539877714044279 0
@@ -723,7 +706,6 @@
 83/home/mib/Documents/goit-js-hw-08/node_modules/css-tree/lib/lexer/generic-urange.js1689539877597379412 0
 92/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/css-placeholder.js1689539877694044588 0
 78/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/regions/IR.js1689539877714044279 0
-66/home/mib/Documents/goit-js-hw-08/dist/01-gallery.101ee4ef.css.map1689540338456984847 0
 92/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/css-paged-media.js1689539877694044588 0
 96/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/css-optional-pseudo.js1689539877694044588 0
 93/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/css-nth-child-of.js1689539877694044588 0
@@ -1651,7 +1633,6 @@
 80/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/core/lib/public/Config.js1689539881737315566 0
 77/home/mib/Documents/goit-js-hw-08/node_modules/css-what/lib/es/index.d.ts.map1689539877504047518 0
 99/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/css-print-color-adjust.js1689539877694044588 0
-63/home/mib/Documents/goit-js-hw-08/dist/02-video.4d417521.js.map1689541294859909427 0
 63/home/mib/Documents/goit-js-hw-08/node_modules/svgo/lib/xast.js1689539877314050448 0
 84/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/core/src/public/Dependency.js1689539881740648848 0
 108/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/package-manager/test/fixtures/has-a-not-yet-installed1689539880377336538 1
@@ -1667,7 +1648,6 @@
 112/home/mib/Documents/goit-js-hw-08/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/node.abi93.musl.node1689539882237307856 0
 98/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/subresource-integrity.js1689539877734043971 0
 100/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/comparedocumentposition.js1689539877684044742 0
-62/home/mib/Documents/goit-js-hw-08/dist/01-gallery.7d68834f.css1689540338453651565 0
 76/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/core/src/constants.js1689539881737315566 0
 80/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/u2f.js1689539877737377253 0
 70/home/mib/Documents/goit-js-hw-08/node_modules/browserslist/browser.js1689539877614045821 0
@@ -1966,7 +1946,7 @@
 99/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/runtime-js/src/helpers/browser/css-loader.js1689539879417351343 0
 78/home/mib/Documents/goit-js-hw-08/node_modules/css-tree/lib/tokenizer/utils.js1689539877677378178 0
 83/home/mib/Documents/goit-js-hw-08/node_modules/dom-serializer/lib/foreignNames.d.ts1689539877487381108 0
-63/home/mib/Documents/goit-js-hw-08/dist/02-video.f69900b1.js.map1689541475490644552 0
+63/home/mib/Documents/goit-js-hw-08/dist/02-video.f69900b1.js.map1689541970750069069 0
 90/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/watcher/src/linux/InotifyBackend.hh1689539878450699584 0
 56/home/mib/Documents/goit-js-hw-08/node_modules/@lezer/lr1689539882610635432 1
 81/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/utils/test/urlJoin.test.js1689539878584030861 0
@@ -2114,14 +2094,13 @@
 80/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/core/lib/applyRuntimes.js1689539881693982901 0
 92/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/referrer-policy.js1689539877730710689 0
 70/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/optimizer-image1689539881453986602 1
-61/home/mib/Documents/goit-js-hw-08/dist/01-gallery.d951e90a.js1689541294853242856 0
+61/home/mib/Documents/goit-js-hw-08/dist/01-gallery.d951e90a.js1689541970750069069 0
 65/home/mib/Documents/goit-js-hw-08/node_modules/lodash/fp/props.js1689540218925475804 0
 80/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/reporter-cli/package.json1689539879590682003 0
 69/home/mib/Documents/goit-js-hw-08/node_modules/fast-glob/package.json1689539877400715778 0
 104/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/core/test/fixtures/invalid-target-source-not-file1689539881820647614 1
 95/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/runtime-js/src/helpers/get-worker-url.js1689539879417351343 0
 63/home/mib/Documents/goit-js-hw-08/node_modules/css-tree/LICENSE1689539877510714082 0
-62/home/mib/Documents/goit-js-hw-08/dist/03-feedback.5440b4f4.js1689540338486984390 0
 97/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/runtime-js/src/helpers/node/wasm-loader.js1689539879417351343 0
 66/home/mib/Documents/goit-js-hw-08/node_modules/lodash/fp/propOr.js1689540218925475804 0
 93/home/mib/Documents/goit-js-hw-08/node_modules/@swc/helpers/src/_object_without_properties.js1689539878450699584 0
@@ -2319,7 +2298,7 @@
 72/home/mib/Documents/goit-js-hw-08/node_modules/lodash/_basePropertyOf.js1689540218842143744 0
 73/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/cache/lib/types.js1689539881660650081 0
 74/home/mib/Documents/goit-js-hw-08/node_modules/@jridgewell/sourcemap-codec1689539881773981667 1
-55/home/mib/Documents/goit-js-hw-08/dist/03-feedback.html1689541860101697322 0
+55/home/mib/Documents/goit-js-hw-08/dist/03-feedback.html1689541970740069217 0
 81/home/mib/Documents/goit-js-hw-08/node_modules/css-tree/lib/syntax/node/String.js1689539877670711614 0
 71/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/packager-css/src1689539880274004799 1
 70/home/mib/Documents/goit-js-hw-08/node_modules/@jridgewell/resolve-uri1689539881787314795 1
@@ -2527,7 +2506,7 @@
 68/home/mib/Documents/goit-js-hw-08/node_modules/lodash/flattenDeep.js1689540218888809697 0
 80/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/ime.js1689539877710710997 0
 100/home/mib/Documents/goit-js-hw-08/node_modules/lmdb/node_modules/node-addon-api/package-support.json1689539881883979971 0
-66/home/mib/Documents/goit-js-hw-08/dist/01-gallery.4cdf7a35.css.map1689541294859909427 0
+66/home/mib/Documents/goit-js-hw-08/dist/01-gallery.4cdf7a35.css.map1689541970743402501 0
 67/home/mib/Documents/goit-js-hw-08/node_modules/@nodelib/fs.stat/out1689539881570651469 1
 83/home/mib/Documents/goit-js-hw-08/node_modules/css-tree/lib/syntax/config/parser.js1689539877657378486 0
 121/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/@scope/pkg/foo/bar.js1689539880547333917 0
@@ -2737,7 +2716,7 @@
 65/home/mib/Documents/goit-js-hw-08/node_modules/lodash/fp/value.js1689540218942142216 0
 58/home/mib/Documents/goit-js-hw-08/node_modules/safe-buffer1689539877280717629 1
 105/home/mib/Documents/goit-js-hw-08/node_modules/@babel/highlight/node_modules/color-convert/conversions.js1689539881933979200 0
-59/home/mib/Documents/goit-js-hw-08/dist/02-video.ac8a2620.js1689541475483977982 0
+59/home/mib/Documents/goit-js-hw-08/dist/02-video.ac8a2620.js1689541970746735785 0
 114/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-module1689539880567333608 1
 67/home/mib/Documents/goit-js-hw-08/node_modules/lodash/_isKeyable.js1689540218858810156 0
 84/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/reporter-cli/src/logLevels.js1689539879590682003 0
@@ -2795,7 +2774,7 @@
 64/home/mib/Documents/goit-js-hw-08/node_modules/terser/lib/cli.js1689539877110720251 0
 109/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/core/test/fixtures/invalid-source-missing/package.json1689539881820647614 0
 62/home/mib/Documents/goit-js-hw-08/node_modules/acorn/bin/acorn1689539877630712231 0
-66/home/mib/Documents/goit-js-hw-08/dist/01-gallery.40c4146b.css.map1689541294859909427 0
+66/home/mib/Documents/goit-js-hw-08/dist/01-gallery.40c4146b.css.map1689541970743402501 0
 72/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/hash/package.json1689539880783996934 0
 74/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/utils/src/schema.js1689539878577364298 0
 86/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/autofocus.js1689539877660711768 0
@@ -2803,7 +2782,7 @@
 60/home/mib/Documents/goit-js-hw-08/node_modules/picomatch/lib1689539876907390054 1
 67/home/mib/Documents/goit-js-hw-08/node_modules/lmdb/src/lmdb-js.cpp1689539877407382342 0
 73/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/compressor-raw/lib1689539881483986139 1
-33/home/mib/Documents/goit-js-hw-081689540338436985152 1
+33/home/mib/Documents/goit-js-hw-081689541970663403680 1
 72/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/fs-search/LICENSE1689539881167324356 0
 71/home/mib/Documents/goit-js-hw-08/node_modules/posthtml-expressions/lib1689539877150719634 1
 89/home/mib/Documents/goit-js-hw-08/node_modules/json-parse-even-better-errors/package.json1689539877330716858 0
@@ -2874,7 +2853,6 @@
 103/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/focusoptions-preventscroll.js1689539877704044433 0
 65/home/mib/Documents/goit-js-hw-08/node_modules/escalade/readme.md1689539877434048598 0
 74/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/packager-js/LICENSE1689539880264004953 0
-68/home/mib/Documents/goit-js-hw-08/dist/goit-js-hw-08.59712999.js.map1689540338486984390 0
 126/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/source-map/parcel_sourcemap_wasm/dist-web/parcel_sourcemap_wasm_bg.wasm1689539880374003256 0
 99/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/fs-search/fs-search.linux-arm-gnueabihf.node1689539881593984443 0
 83/home/mib/Documents/goit-js-hw-08/node_modules/css-tree/lib/syntax/node/Selector.js1689539877664045050 0
@@ -3136,7 +3114,7 @@
 64/home/mib/Documents/goit-js-hw-08/node_modules/csso/package.json1689539877604045976 0
 112/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/foo/index.js1689539880554000481 0
 132/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-package-redirect-up1689539880567333608 1
-59/home/mib/Documents/goit-js-hw-08/dist/02-video.9dbe147f.js1689541475483977982 0
+59/home/mib/Documents/goit-js-hw-08/dist/02-video.9dbe147f.js1689541970740069217 0
 118/home/mib/Documents/goit-js-hw-08/node_modules/@babel/helper-validator-identifier/scripts/generate-identifier-regex.js1689539881827314178 0
 122/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/package-manager/test/fixtures/has-foo/node_modules/foo/package.json1689539880377336538 0
 67/home/mib/Documents/goit-js-hw-08/node_modules/msgpackr/unpack.d.ts1689539877320717012 0
@@ -3161,7 +3139,7 @@
 96/home/mib/Documents/goit-js-hw-08/node_modules/simplelightbox/dist/simple-lightbox.jquery.min.js1689540156193101538 0
 65/home/mib/Documents/goit-js-hw-08/node_modules/json5/package.json1689539877344049986 0
 91/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/pagevisibility.js1689539877727377407 0
-54/home/mib/Documents/goit-js-hw-08/dist/01-gallery.html1689541860101697322 0
+54/home/mib/Documents/goit-js-hw-08/dist/01-gallery.html1689541970740069217 0
 67/home/mib/Documents/goit-js-hw-08/node_modules/nullthrows/README.md1689539877207385427 0
 90/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/tabindex-attr.js1689539877734043971 0
 92/home/mib/Documents/goit-js-hw-08/node_modules/posthtml-include/node_modules/posthtml-parser1689539881847313870 1
@@ -3313,7 +3291,6 @@
 81/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/packager-html/package.json1689539879664014206 0
 89/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/css-autofill.js1689539877687378024 0
 78/home/mib/Documents/goit-js-hw-08/node_modules/nan/nan_converters_pre_43_inl.h1689539877244051528 0
-59/home/mib/Documents/goit-js-hw-08/dist/02-video.72fa2edf.js1689541294849909570 0
 65/home/mib/Documents/goit-js-hw-08/node_modules/lodash/isString.js1689540218902142827 0
 60/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/graph1689539880800663343 1
 76/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/workers/src/Handle.js1689539878514031941 0
@@ -3898,7 +3875,7 @@
 56/home/mib/Documents/goit-js-hw-08/node_modules/commander1689539877567379874 1
 70/home/mib/Documents/goit-js-hw-08/node_modules/queue-microtask/LICENSE1689539877117386815 0
 64/home/mib/Documents/goit-js-hw-08/node_modules/commander/LICENSE1689539877547380183 0
-63/home/mib/Documents/goit-js-hw-08/dist/02-video.ac8a2620.js.map1689541475490644552 0
+63/home/mib/Documents/goit-js-hw-08/dist/02-video.ac8a2620.js.map1689541970753402354 0
 76/home/mib/Documents/goit-js-hw-08/node_modules/domelementtype/lib/index.d.ts1689539877514047364 0
 65/home/mib/Documents/goit-js-hw-08/node_modules/lodash/fp/floor.js1689540218888809697 0
 82/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/config-default/package.json1689539881453986602 0
@@ -3912,7 +3889,7 @@
 85/home/mib/Documents/goit-js-hw-08/node_modules/css-tree/lib/syntax/node/StyleSheet.js1689539877670711614 0
 72/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/core/src/index.js1689539881740648848 0
 83/home/mib/Documents/goit-js-hw-08/node_modules/simplelightbox/demo/img/thumb/03.jpg1689540155986438033 0
-66/home/mib/Documents/goit-js-hw-08/dist/03-feedback.7268fa4c.js.map1689541475490644552 0
+66/home/mib/Documents/goit-js-hw-08/dist/03-feedback.7268fa4c.js.map1689541970743402501 0
 79/home/mib/Documents/goit-js-hw-08/node_modules/cosmiconfig/dist/ExplorerBase.js1689539877544046901 0
 93/home/mib/Documents/goit-js-hw-08/node_modules/node-gyp-build-optional-packages/build-test.js1689539877230718400 0
 82/home/mib/Documents/goit-js-hw-08/node_modules/css-tree/lib/syntax/config/lexer.js1689539877640712077 0
@@ -4397,7 +4374,6 @@
 70/home/mib/Documents/goit-js-hw-08/node_modules/fclone/bench/loopobj.js1689539877364049677 0
 93/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/core/test/fixtures/parcel/package.json1689539881820647614 0
 56/home/mib/Documents/goit-js-hw-08/node_modules/fast-glob1689539877400715778 1
-67/home/mib/Documents/goit-js-hw-08/dist/03-feedback.ba2d0753.css.map1689540338456984847 0
 64/home/mib/Documents/goit-js-hw-08/node_modules/fast-glob/LICENSE1689539877374049523 0
 88/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/shadowdomv1.js1689539877734043971 0
 66/home/mib/Documents/goit-js-hw-08/node_modules/fast-glob/out/utils1689539877407382342 1
@@ -4681,7 +4657,6 @@
 70/home/mib/Documents/goit-js-hw-08/node_modules/mdn-data/css/units.json1689539877337383422 0
 85/home/mib/Documents/goit-js-hw-08/node_modules/@swc/helpers/src/_iterable_to_array.js1689539878450699584 0
 77/home/mib/Documents/goit-js-hw-08/node_modules/mdn-data/css/units.schema.json1689539877337383422 0
-59/home/mib/Documents/goit-js-hw-08/dist/02-video.c2a876cd.js1689541294849909570 0
 60/home/mib/Documents/goit-js-hw-08/node_modules/mdn-data/l10n1689539877264051219 1
 69/home/mib/Documents/goit-js-hw-08/node_modules/color-convert/route.js1689539877540713619 0
 68/home/mib/Documents/goit-js-hw-08/node_modules/mdn-data/package.json1689539877287384193 0
@@ -5792,7 +5767,6 @@
 67/home/mib/Documents/goit-js-hw-08/node_modules/lodash/fp/pullAll.js1689540218925475804 0
 69/home/mib/Documents/goit-js-hw-08/node_modules/lodash/fp/pullAllBy.js1689540218925475804 0
 65/home/mib/Documents/goit-js-hw-08/node_modules/lodash/fp/range.js1689540218925475804 0
-61/home/mib/Documents/goit-js-hw-08/dist/01-gallery.53390864.js1689540338486984390 0
 70/home/mib/Documents/goit-js-hw-08/node_modules/lodash/fp/rangeRight.js1689540218925475804 0
 66/home/mib/Documents/goit-js-hw-08/node_modules/lodash/fp/reduce.js1689540218925475804 0
 83/home/mib/Documents/goit-js-hw-08/node_modules/cosmiconfig/dist/cacheWrapper.js.map1689539877547380183 0
