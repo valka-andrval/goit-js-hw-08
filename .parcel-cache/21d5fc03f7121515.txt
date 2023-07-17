@@ -1,4 +1,8 @@
-5826
+5830
+66/home/mib/Documents/goit-js-hw-08/dist/03-feedback.2c9f125f.js.map1689619201850613477 0
+66/home/mib/Documents/goit-js-hw-08/dist/03-feedback.7992bf9d.js.map1689619201850613477 0
+62/home/mib/Documents/goit-js-hw-08/dist/03-feedback.2c9f125f.js1689619201847280191 0
+62/home/mib/Documents/goit-js-hw-08/dist/03-feedback.7992bf9d.js1689619201847280191 0
 65/home/mib/Documents/goit-js-hw-08/dist/01-gallery.d951e90a.js.map1689541970753402354 0
 65/home/mib/Documents/goit-js-hw-08/dist/01-gallery.cd9581eb.js.map1689541970753402354 0
 63/home/mib/Documents/goit-js-hw-08/dist/02-video.c3332335.js.map1689541970753402354 0
@@ -468,7 +472,7 @@
 77/home/mib/Documents/goit-js-hw-08/node_modules/native-promise-only/.npmignore1689540337317002228 0
 93/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/web-app-manifest.js1689539877740710534 0
 77/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/core/src/Validation.js1689539881807314486 0
-38/home/mib/Documents/goit-js-hw-08/dist1689541970756735638 1
+38/home/mib/Documents/goit-js-hw-08/dist1689619201857280051 1
 90/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/web-animation.js1689539877740710534 0
 81/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/hevc.js1689539877707377715 0
 91/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/viewport-units.js1689539877740710534 0
@@ -2157,7 +2161,7 @@
 66/home/mib/Documents/goit-js-hw-08/node_modules/lmdb/src/cursor.cpp1689539877407382342 0
 97/home/mib/Documents/goit-js-hw-08/node_modules/posthtml/node_modules/posthtml-parser/package.json1689539881900646381 0
 92/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/package-manager/test/fixtures/has-foo1689539880377336538 1
-55/home/mib/Documents/goit-js-hw-08/src/js/03-feedback.js1689540259161527959 0
+55/home/mib/Documents/goit-js-hw-08/src/js/03-feedback.js1689619123618368581 0
 98/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/credential-management.js1689539877684044742 0
 84/home/mib/Documents/goit-js-hw-08/node_modules/@jridgewell/sourcemap-codec/README.md1689539881773981667 0
 77/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/core/src/AssetGraph.js1689539881703982747 0
@@ -2216,7 +2220,7 @@
 78/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/bundler-default/LICENSE1689539882003978120 0
 71/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/utils/test/input1689539878584030861 1
 126/home/mib/Documents/goit-js-hw-08/node_modules/parcel-reporter-clean-dist/test/fixtures/packageV4/files/embed/embed2/file3.txt1689539877197385581 0
-40/home/mib/Documents/goit-js-hw-08/src/js1689482638000000000 1
+40/home/mib/Documents/goit-js-hw-08/src/js1689542483602481784 1
 80/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/let.js1689539877714044279 0
 66/home/mib/Documents/goit-js-hw-08/node_modules/lodash/fp/zipObj.js1689540218948808781 0
 87/home/mib/Documents/goit-js-hw-08/node_modules/caniuse-lite/data/features/css-canvas.js1689539877687378024 0
@@ -2298,7 +2302,7 @@
 72/home/mib/Documents/goit-js-hw-08/node_modules/lodash/_basePropertyOf.js1689540218842143744 0
 73/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/cache/lib/types.js1689539881660650081 0
 74/home/mib/Documents/goit-js-hw-08/node_modules/@jridgewell/sourcemap-codec1689539881773981667 1
-55/home/mib/Documents/goit-js-hw-08/dist/03-feedback.html1689541970740069217 0
+55/home/mib/Documents/goit-js-hw-08/dist/03-feedback.html1689619201847280191 0
 81/home/mib/Documents/goit-js-hw-08/node_modules/css-tree/lib/syntax/node/String.js1689539877670711614 0
 71/home/mib/Documents/goit-js-hw-08/node_modules/@parcel/packager-css/src1689539880274004799 1
 70/home/mib/Documents/goit-js-hw-08/node_modules/@jridgewell/resolve-uri1689539881787314795 1
